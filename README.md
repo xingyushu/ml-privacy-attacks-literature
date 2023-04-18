@@ -260,3 +260,23 @@ Reconstruction attacks cover also attacks known as *model inversion* and *attrib
 - [**Learning to Break Deep Perceptual Hashing: The Use Case NeuralHash**](https://arxiv.org/abs/2111.06628) (Struppek et al., 2021)
 - [**The Privacy Onion Effect: Memorization is Relative**](https://arxiv.org/abs/2206.10469) (Carlini et al., 2022)
 - [**Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets**](https://arxiv.org/abs/2204.00032) (Tramer et al., 2022)
+
+
+## Conferences
+- A-Level
+
+|  Conference   | 2019 | 2020 | 2021 |
+|  ----  | ----  | ----  | ----  |
+| [AAAI](./conferences/aaai.md)  | - | 6 | 14 |
+| [IJCAI](./conferences/ijcai.md)  | 1 | 2 | 8 | 
+| [AISTATS](./conferences/aistats.md) | - | 3 | 7 | 
+| [ICLR](./conferences/iclr.md) | - | 4 | 10 | 
+| [KDD](./conferences/kdd.md) | - | 2 | -  | 
+| [INFOCOM](./conferences/infocom.md) | 2 |7  | 13 | 
+| [ICML](./conferences/icml.md)| 4 |  6 |  18 | 
+| [MOBICOM](./conferences/mobicom.md) | - | 1 | - | 
+| [NeurIPS](./conferences/neurips.md) | - | 17 | 32 | 
+| [CCS](./conferences/ccs.md) |  1 | - |   | 
+| [RTSS](./conferences/rtss.md) | 1 |  - |   | 
+| [S&P](./conferences/sp.md) | 1 | - |   | 
+| [USENIX Security](./conferences/usenix.md)| - | 1 | -|
